@@ -1,0 +1,10 @@
+.employee-card {
+    background: lightgrey;
+width: 250px;
+}
+
+.employee-card-header {
+    background: blue;
+    color: white;
+    width: 250px;
+}
