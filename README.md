@@ -30,3 +30,5 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ### MOCK-UP
+
+-link to the page https://github.com/jcxxz/Team-Profile-Generator
