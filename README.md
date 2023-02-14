@@ -3,6 +3,9 @@
 - this project was for module 10 OOP and the goal of this project was to create a profile team generator with node js. 
 I was able to write up the tests and get everything to pass, but I was unable to complete everything required for the project
 
+-I was able to write the different roles and get them each to pass multiple tests as well as making sure that 'jest' and 'inquirer' worked correctly 
+within the parameters of this project. I was just unable to make it generate the html and turn it into a dynamic application.
+
 ## USER-STORY
 
 AS A manager
@@ -32,3 +35,8 @@ THEN I exit the application, and the HTML is generated
 ### MOCK-UP
 
 -link to the page https://github.com/jcxxz/Team-Profile-Generator
+
+-video of the project
+
+[Untitled_ Feb 13, 2023 8_39 PM (1).webm](https://user-images.githubusercontent.com/117127694/218641017-49423b22-8e6e-49d3-97b2-ff17c340d8b2.webm)
+
